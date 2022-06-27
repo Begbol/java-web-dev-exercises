@@ -23,6 +23,5 @@ public class AreaOfRectangle {
 
         System.out.println("Your area is: " + area.toString());
 
-
     }
 }

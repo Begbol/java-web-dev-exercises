@@ -20,7 +20,6 @@ public class MilesPerGallon {
         // Miles per gallon -> miles / gallons;
         Double milesPerGallon = milesDriven / gallonsConsumed;
         System.out.println("Your miles per gallon is: "+ milesPerGallon);
-
     }
 
 }

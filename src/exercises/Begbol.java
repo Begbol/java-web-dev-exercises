@@ -13,8 +13,6 @@ public class Begbol {
 //            }
 //            System.out.println();
 //        }
-
-
     }
 
     public void askUserForName() {
