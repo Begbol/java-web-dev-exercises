@@ -1,4 +1,4 @@
-package exercises;
+package exercises.NewChaper1;
 import java.util.Scanner;
 
 public class Begbol {
